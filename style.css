@@ -21,8 +21,11 @@ body{
     width: 100%;
     color: white;
 }
-.part-2{
-    width: 100%;
+.part-2 img{
+    box-shadow: 5px 5px 20px 5px;
+    margin-top: 30px;
+    border-radius: 50%;
+    border: 5px rgb(85, 189, 85) solid;
 }
 .navigation{
     background: rgb(7,64,115);
